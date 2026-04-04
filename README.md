@@ -7,3 +7,4 @@ Scientific Computing with Python
  This repository contains my progress through the Python curriculum. I'm building projects to master data types, logic, and scientific computing.
  ### 📂 Projects:
  * **Report Card Printer**✅(completed)
+ * **Employee Profile**✅(completed)
