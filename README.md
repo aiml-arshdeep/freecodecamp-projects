@@ -1,2 +1,9 @@
-# freecodecamp-projects
-learning python was great on freecodecamp
+#🎓 freeCodeCamp:
+Scientific Computing with Python
+
+ ![Status](https://img.shields.io/badge/Status-Learning-brightgreen)
+ ![Platform](https://img.shields.io/badge/Course-freeCodeCamp-blueviolet?logo=freecamp)
+ ###🚀🚀 My learning journey 
+ This repository contains my progress through the Python curriculum. I'm building projects to master data types, logic, and scientific computing.
+ ### 📂 Projects:
+ * **Report Card Printer**✅(completed)
