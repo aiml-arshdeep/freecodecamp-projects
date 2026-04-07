@@ -8,3 +8,4 @@ Scientific Computing with Python
  ### 📂 Projects:
  * **Report Card Printer**✅(completed)
  * **Employee Profile**✅(completed)
+ * **Build a bill splitter**✅(completed)
