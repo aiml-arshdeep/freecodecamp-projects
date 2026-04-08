@@ -10,3 +10,4 @@ Scientific Computing with Python
  * **Employee Profile**✅(completed)
  * **Build a bill splitter**✅(completed)
  * **Build a movie ticket calculator**✅(completed)
+ * **Build a travel weather planner**✅(completed)
