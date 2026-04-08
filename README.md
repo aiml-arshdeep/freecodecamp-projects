@@ -9,3 +9,4 @@ Scientific Computing with Python
  * **Report Card Printer**✅(completed)
  * **Employee Profile**✅(completed)
  * **Build a bill splitter**✅(completed)
+ * **Build a movie ticket calculator**✅(completed)
