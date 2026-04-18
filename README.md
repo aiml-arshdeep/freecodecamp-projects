@@ -12,3 +12,4 @@ Scientific Computing with Python
  * **Build a movie ticket calculator**✅(completed)
  * **Build a travel weather planner**✅(completed)
  * **Build a ceasar cipher**✅(completed)
+ * **Build a Planet Class**✅(completed)
