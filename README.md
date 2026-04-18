@@ -13,3 +13,4 @@ Scientific Computing with Python
  * **Build a travel weather planner**✅(completed)
  * **Build a ceasar cipher**✅(completed)
  * **Build a Planet Class**✅(completed)
+ * **Build an Email Stimulator**✅(completed)
