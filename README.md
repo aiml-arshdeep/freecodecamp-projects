@@ -17,3 +17,4 @@ Scientific Computing with Python
  * **Build a Budget App**✅(completed)
  * **Build a Polygon Area Calculator**✅(completed)
  * **Build a Musical Instrument Inventory**✅(completed)
+ * **Build a Pin Extractor**✅(completed)
