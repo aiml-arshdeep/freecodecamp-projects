@@ -15,3 +15,4 @@ Scientific Computing with Python
  * **Build a Planet Class**✅(completed)
  * **Build an Email Stimulator**✅(completed)
  * **Build a Budget App**✅(completed)
+ * **Build a Polygon Area Calculator**✅(completed)
