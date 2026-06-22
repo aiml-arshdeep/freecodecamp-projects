@@ -19,3 +19,4 @@ Scientific Computing with Python
  * **Build a Musical Instrument Inventory**✅(completed)
  * **Build a Pin Extractor**✅(completed)
  * **Build a Medical Data Validator**✅(completed)
+ 
