@@ -18,4 +18,4 @@ Scientific Computing with Python
  * **Build a Polygon Area Calculator**✅(completed)
  * **Build a Musical Instrument Inventory**✅(completed)
  * **Build a Pin Extractor**✅(completed)
- 
+ * **Build a Medical Data Validator**✅(completed)
