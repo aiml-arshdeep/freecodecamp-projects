@@ -16,3 +16,4 @@ Scientific Computing with Python
  * **Build an Email Stimulator**✅(completed)
  * **Build a Budget App**✅(completed)
  * **Build a Polygon Area Calculator**✅(completed)
+ * **Build a Musical Instrument Inventory**✅(completed)
