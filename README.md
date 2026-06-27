@@ -1,5 +1,7 @@
 #🎓 freeCodeCamp:
 Scientific Computing with Python
+ * ## My Python Certification
+ * ![Python Certification](Screenshot_27-6-2026_82148_.jpeg)
 
  ![Status](https://img.shields.io/badge/Status-Learning-brightgreen)
  ![Platform](https://img.shields.io/badge/Course-freeCodeCamp-blueviolet?logo=freecamp)
@@ -20,6 +22,5 @@ Scientific Computing with Python
  * **Build a Pin Extractor**✅(completed)
  * **Build a Medical Data Validator**✅(completed)
 
- * ## My Python Certifion
- * ![Python Certification](Screenshot_27-6-2026_82148_.jpeg)
+
  
