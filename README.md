@@ -19,4 +19,7 @@ Scientific Computing with Python
  * **Build a Musical Instrument Inventory**✅(completed)
  * **Build a Pin Extractor**✅(completed)
  * **Build a Medical Data Validator**✅(completed)
+
+ * ## My Python Certifion
+ * ![Python Certification](Screenshot_27-6-2026_82148_.jpeg)
  
